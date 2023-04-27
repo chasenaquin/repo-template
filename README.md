@@ -1,8 +1,7 @@
-# repo-template
+### Table of Contents
 
-[Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
-
-[Scope](https://github.com/hillaryfraley/jobbriefings#scope)
+• [Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
+	- [Scope](https://github.com/hillaryfraley/jobbriefings#scope)
 
 [Work Practice](https://github.com/hillaryfraley/jobbriefings#work-practice)
 
